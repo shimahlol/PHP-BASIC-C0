@@ -3,7 +3,7 @@
 $score = 0;
 echo $score;
 echo "<br>";
-$voornaam ="jamiro";
+$voornaam ="Tom";
 echo $voornaam;
 echo "<br>";
 $leeftijd = "24";
@@ -14,3 +14,6 @@ echo "<br>";
 echo $test;
 $test = "";
 echo $test;
+gettype($voornaam);
+echo gettype($voornaam);
+
