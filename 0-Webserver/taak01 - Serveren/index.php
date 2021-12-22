@@ -38,3 +38,9 @@ foreach($myMovies as $movies) {
 	echo $movies;
 	echo '<br>';
 };
+$myDogNames =  ['tijger', 'mickey', 'tijger'];
+echo $myDogNames[0];
+echo $myDogNames[1];
+echo $myDogNames[2];
+$myDogNames[1] = 'panter';
+echo $myDogNames[1];
