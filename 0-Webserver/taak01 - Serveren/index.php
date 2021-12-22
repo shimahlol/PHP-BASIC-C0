@@ -32,3 +32,9 @@ $item .= "<li>bal</li>";
 $item .= "<li>voet</li>";
 echo $item;
 var_dump($test);
+echo 'Mijn leeftijd is $leeftijd';
+$myMovies = ["Spiderman", "Batman", "The Joker"];
+foreach($myMovies as $movies) {
+	echo $movies;
+	echo '<br>';
+};
