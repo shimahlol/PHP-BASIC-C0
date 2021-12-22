@@ -9,3 +9,8 @@ echo "<br>";
 $leeftijd = "24";
 $melk = 0.88;
 echo $leeftijd," ","$" , $melk;
+$test = true;
+echo "<br>";
+echo $test;
+$test = "";
+echo $test;
