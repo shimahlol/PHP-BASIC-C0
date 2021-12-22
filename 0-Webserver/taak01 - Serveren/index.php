@@ -31,3 +31,4 @@ $item = "<li>tas</li>";
 $item .= "<li>bal</li>";
 $item .= "<li>voet</li>";
 echo $item;
+var_dump($test);
