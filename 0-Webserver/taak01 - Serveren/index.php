@@ -25,5 +25,5 @@ echo gettype($melk);
 echo gettype($test);
 $null = null;
 echo gettype($null);
-echo "Jouw naam is $voornaam en je bent je $leeftijd jaar oud.";
+echo "Jouw naam is " . $voornaam . " en je bent " . $leeftijd . " jaar oud.";
 echo "<li>$voornaam1</li><li>$voornaam2</li><li>$voornaam3</li>";
