@@ -27,3 +27,7 @@ $null = null;
 echo gettype($null);
 echo "Jouw naam is " . $voornaam . " en je bent " . $leeftijd . " jaar oud.";
 echo "<li>$voornaam1</li><li>$voornaam2</li><li>$voornaam3</li>";
+$item = "<li>tas</li>";
+$item .= "<li>bal</li>";
+$item .= "<li>voet</li>";
+echo $item;
