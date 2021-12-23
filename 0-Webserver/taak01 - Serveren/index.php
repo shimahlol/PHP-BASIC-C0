@@ -7,4 +7,4 @@ echo $abcGetallen[0][0];
 echo $abcGetallen[4][0];
 echo "<br>";
 echo $abcGetallen[2][0];
-echo $abcGetallen[3][3];
+echo $abcGetallen[0][0];
