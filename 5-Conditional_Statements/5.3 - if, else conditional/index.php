@@ -36,3 +36,4 @@ if ($test1 <= $test2){
 	else{
 		echo "1is gelijk of groter dan2";
 	}
+// blub
