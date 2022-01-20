@@ -1,10 +1,11 @@
 <?php
-function zetTweeWoordenAanElkaar(){
-	$woordje = 'Hallo';
-	$zinnetje = 'mooie blauwe lucht';
-	$helezin = $woordje . $zinnetje;
-	$helezin =strtoupper($helezin);
-	echo $helezin;
+function mijnNaamIsGroot(){
+	$voornaam = 'bart';
+	$achternaam= 'simpson';
+	$zinnetje = 'mijn naam is ';
+	$gehelenaam = $zinnetje . $voornaam . $achternaam;
+	$gehelenaam =strtoupper($gehelenaam);
+	echo $gehelenaam;
 }
 
-zetTweeWoordenAanElkaar();
+mijnNaamIsGroot();
